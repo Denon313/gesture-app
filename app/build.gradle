@@ -6,7 +6,7 @@ android {
     namespace 'com.denon.gesture'
     compileSdk 34
     defaultConfig {
-        applicationId 'com.denon.gesture'
+        applicationId 'com.denon.airgesture2'
         minSdk 26
         targetSdk 34
         versionCode 1
