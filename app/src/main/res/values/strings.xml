@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Air Gesture</string>
+    <string name="acc_desc">Performs swipe and back actions from hand gestures</string>
+</resources>
